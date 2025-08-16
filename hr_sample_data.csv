@@ -1,0 +1,201 @@
+EmployeeID,Name,Position,Department,ApplicationDate,Source,InterviewDate,OfferDate,HireDate,Status,Gender,Age,MinorityStatus,VeteranStatus,DisabilityStatus,EmploymentType,Salary,Location,TerminationDate,TerminationReason,EligibleRehire,EngagementScore,JobSatisfaction,RecognitionScore
+E100,Karen Taylor,HR Specialist,Human Resources,8/23/2024,Referral,8/26/2024,9/2/2024,7/29/2021,Hired,F,42,No,Yes,Yes,Part-Time,51556,"Jamiefurt, SC",,,,4,8,6
+E101,Rachel Crawford,IT Support,IT,4/6/2024,Job Fair,4/17/2024,4/27/2024,1/1/2022,Hired,M,28,No,Yes,Yes,Part-Time,96354,"Gilbertshire, CO",,,,3,3,3
+E102,Janet Griffin,Systems Admin,IT,1/5/2023,LinkedIn,1/18/2023,1/22/2023,11/29/2023,Hired,M,23,No,No,No,Contract,116454,"East Crystalstad, NV",,,,9,2,8
+E103,Michael Smith,Operations Manager,Operations,9/13/2021,Website,9/25/2021,9/27/2021,10/2/2024,Hired,F,32,Yes,Yes,Yes,Full-Time,51897,"North Adamville, MN",,,,9,2,2
+E104,Dawn Carter,Account Exec,Sales,12/28/2020,LinkedIn,,,11/20/2020,Hired,F,38,Yes,No,No,Full-Time,60654,"East Jeffrey, VA",,,,9,10,5
+E105,Adam Woods,Inventory Specialist,Operations,2/13/2022,Indeed,2/23/2022,3/2/2022,,Offer Declined,F,45,No,Yes,Yes,,,"Lake Kenneth, RI",,,,,,
+E106,Tiffany Williams,Content Specialist,Marketing,2/19/2023,Job Fair,2/23/2023,2/28/2023,8/21/2020,Hired,M,36,Yes,No,Yes,Part-Time,111052,"Youngbury, HI",2/4/2022,Better Compensation,Yes,9,5,3
+E107,Jonathan Crane,SEO Analyst,Marketing,6/7/2020,LinkedIn,6/22/2020,,,Offer Declined,M,48,No,No,No,,,"North Mark, AZ",,,,,,
+E108,Joseph Garcia,Sales Manager,Sales,4/22/2021,LinkedIn,5/5/2021,5/9/2021,,Hired,M,41,Yes,No,Yes,,,"North Thomas, MS",,,,,,
+E109,Julie Taylor,Financial Analyst,Finance,12/30/2023,Referral,1/2/2024,1/3/2024,,Rejected,F,31,Yes,No,Yes,,,"Larsonstad, WV",,,,,,
+E110,Joshua Ray,SEO Analyst,Marketing,9/28/2023,Indeed,10/4/2023,10/13/2023,2/12/2021,Hired,M,41,No,Yes,No,Full-Time,102320,"South Virginialand, RI",,,,1,6,7
+E111,Adam Reed,SEO Analyst,Marketing,7/23/2023,Indeed,8/2/2023,8/12/2023,,Rejected,M,57,Yes,Yes,No,,,"Lake Antonioview, KY",,,,,,
+E112,Michael Carney,Financial Analyst,Finance,6/27/2024,LinkedIn,7/10/2024,7/11/2024,,Rejected,F,41,Yes,No,No,,,"Blakeville, NJ",,,,,,
+E113,Jennifer Lucas,Content Specialist,Marketing,6/26/2024,Referral,7/4/2024,7/5/2024,,Offer Declined,F,38,No,Yes,Yes,,,"Lake Joseph, VA",,,,,,
+E114,Debbie Vasquez,Logistics Coordinator,Operations,5/19/2024,Referral,5/30/2024,,6/13/2020,Hired,M,41,No,No,Yes,Full-Time,106305,"Port James, OH",,,,2,7,3
+E115,William Smith,Financial Analyst,Finance,9/22/2024,LinkedIn,10/5/2024,10/9/2024,4/22/2020,Hired,M,64,No,Yes,Yes,Contract,113793,"North Jessica, ME",,,,5,1,10
+E116,Nathan Perry,Data Analyst,IT,5/22/2023,Indeed,6/1/2023,,9/15/2023,Hired,M,24,Yes,Yes,No,Contract,87224,"Port Scott, MA",,,,6,3,6
+E117,Jose Gutierrez,Sales Manager,Sales,9/4/2021,Job Fair,9/17/2021,,,Offer Declined,M,46,No,No,No,,,"East Kennethside, MI",,,,,,
+E118,Natalie Lee,Accountant,Finance,10/4/2022,Job Fair,10/6/2022,10/7/2022,,Hired,M,60,No,Yes,Yes,,,"West Marciaton, GA",,,,,,
+E119,Steven Rowe,Sales Manager,Sales,6/27/2023,Job Fair,7/12/2023,7/15/2023,10/6/2022,Hired,M,34,No,No,Yes,Contract,93514,"Lake Jeffreyside, ME",7/19/2024,Misconduct,No,3,8,7
+E120,Jessica Reyes DDS,Recruiter,Human Resources,5/6/2021,Website,5/15/2021,5/22/2021,,Hired,F,62,No,Yes,No,,,"Saratown, VT",,,,,,
+E121,David Russell,IT Support,IT,2/23/2024,LinkedIn,2/29/2024,,12/7/2023,Hired,F,42,Yes,No,No,Contract,78912,"Shieldsfurt, NM",,,,10,10,7
+E122,Kirk Allen,Account Exec,Sales,10/11/2021,Indeed,10/13/2021,10/23/2021,3/31/2020,Hired,F,22,No,No,Yes,Part-Time,54772,"South Kelly, FL",,,,4,9,4
+E123,Kristy Dunlap,Recruiter,Human Resources,2/27/2023,Referral,,,5/27/2020,Hired,M,65,Yes,Yes,No,Part-Time,55068,"Lake Jeffreymouth, ND",,,,10,7,3
+E124,David Randolph,Accountant,Finance,8/25/2022,LinkedIn,,,4/1/2023,Hired,F,45,No,Yes,No,Full-Time,49512,"Smithmouth, WI",,,,9,8,6
+E125,Jamie Williams,HR Manager,Human Resources,3/5/2020,Referral,3/15/2020,3/19/2020,,Offer Declined,F,39,No,No,No,,,"East Saraberg, ID",,,,,,
+E126,Jessica Burton,Logistics Coordinator,Operations,6/19/2024,LinkedIn,,,11/7/2023,Hired,M,27,No,No,No,Full-Time,80046,"North James, MO",7/7/2024,Misconduct,No,1,10,1
+E127,Rebekah Brandt,Inventory Specialist,Operations,8/21/2022,Website,8/29/2022,8/30/2022,6/30/2020,Hired,M,64,Yes,No,No,Full-Time,116845,"Sullivanside, WY",7/27/2022,,Yes,10,2,10
+E128,Jessica Wilson,IT Support,IT,2/23/2024,Job Fair,2/29/2024,3/1/2024,7/17/2023,Hired,M,30,Yes,Yes,No,Full-Time,111857,"Oconnorfurt, DE",,,,6,1,3
+E129,Benjamin Mcdonald MD,Accountant,Finance,12/4/2020,LinkedIn,12/13/2020,12/21/2020,4/19/2020,Hired,M,33,No,Yes,No,Contract,82211,"Lake Mercedesmouth, RI",,,,1,8,10
+E130,Rebecca Davis,Data Analyst,IT,8/8/2024,Indeed,8/17/2024,8/27/2024,9/4/2020,Hired,F,60,Yes,Yes,Yes,Full-Time,97936,"Hannahtown, WV",,,,5,4,10
+E131,Darrell Rice,Payroll Specialist,Finance,3/27/2020,Indeed,4/1/2020,4/2/2020,3/19/2023,Hired,M,36,No,No,No,Part-Time,113143,"North Dustin, MO",,,,4,8,1
+E132,Katherine Knight,Payroll Specialist,Finance,7/18/2024,Job Fair,8/2/2024,8/6/2024,8/19/2024,Hired,M,47,No,No,Yes,Full-Time,76894,"Christophertown, MD",,,,8,8,4
+E133,Patrick Miller,Financial Analyst,Finance,12/15/2022,Indeed,,,,Screening,F,28,Yes,Yes,Yes,,,"Matthewhaven, AL",,,,,,
+E134,Ann Ramirez,Operations Manager,Operations,4/22/2022,Referral,4/29/2022,,5/15/2020,Hired,M,57,Yes,No,No,Part-Time,57321,"Sarahmouth, WA",,,,4,4,7
+E135,Maria Tran,Marketing Mgr,Marketing,9/17/2021,Referral,9/21/2021,,,Screening,F,47,Yes,Yes,No,,,"East Joanne, CO",,,,,,
+E136,Stephanie Brown,HR Specialist,Human Resources,1/2/2023,Website,,,2/15/2024,Hired,F,38,No,No,Yes,Contract,119397,"Lake Christinefort, MA",,,,3,5,8
+E137,Stacey Miller,HR Manager,Human Resources,8/7/2021,LinkedIn,,,1/22/2021,Hired,F,38,No,Yes,No,Part-Time,93588,"Jeremystad, NC",10/28/2024,,Yes,3,5,10
+E138,Rachel Anderson,Logistics Coordinator,Operations,6/23/2022,Indeed,6/30/2022,7/1/2022,3/31/2024,Hired,F,57,Yes,No,Yes,Contract,112622,"Port Jamesmouth, AR",,,,6,7,6
+E139,David Stone,SEO Analyst,Marketing,9/9/2021,LinkedIn,9/15/2021,,,Screening,F,28,No,No,Yes,,,"New Brenda, IN",,,,,,
+E140,Laura Kirby,HR Manager,Human Resources,12/26/2020,Job Fair,1/9/2021,1/12/2021,,Rejected,M,41,No,No,Yes,,,"Jessicafort, IN",,,,,,
+E141,Theresa Brown,Accountant,Finance,3/1/2021,Indeed,,,2/3/2024,Hired,M,29,Yes,Yes,No,Contract,90342,"South Michelle, VT",,,,2,9,1
+E142,Amber Lee,Account Exec,Sales,4/5/2020,Website,4/9/2020,4/15/2020,10/12/2021,Hired,M,50,Yes,Yes,Yes,Part-Time,62301,"Bellmouth, MO",,,,2,9,4
+E143,Derek Stone,Inventory Specialist,Operations,6/6/2020,Referral,6/7/2020,6/14/2020,11/27/2024,Hired,M,30,Yes,No,Yes,Contract,91851,"Woodwardmouth, AZ",,,,5,5,2
+E144,Gregory White,Recruiter,Human Resources,5/15/2024,Website,5/26/2024,5/29/2024,6/21/2022,Hired,F,39,Yes,Yes,Yes,Contract,112339,"Port Carl, VA",,,,1,7,6
+E145,David Pope,Accountant,Finance,4/22/2024,Job Fair,4/27/2024,5/3/2024,1/20/2020,Hired,F,55,Yes,No,No,Part-Time,68783,"New Zacharyfort, WV",,,,3,2,8
+E146,Julie Bradley,Financial Analyst,Finance,2/7/2020,Job Fair,2/15/2020,2/23/2020,3/29/2022,Hired,F,45,Yes,No,No,Part-Time,89913,"Josephhaven, NV",,,,7,5,1
+E147,Charles Norton,Inventory Specialist,Operations,3/25/2024,Job Fair,3/30/2024,,,Screening,F,38,Yes,Yes,No,,,"East Darlene, MA",,,,,,
+E148,Sean Mullins,Recruiter,Human Resources,8/26/2020,Website,,,8/3/2020,Hired,M,54,Yes,Yes,Yes,Contract,97209,"North Marc, KY",,,,2,2,5
+E149,Tara Boyd,Operations Manager,Operations,1/8/2020,Website,1/10/2020,1/13/2020,8/17/2020,Hired,M,40,Yes,Yes,Yes,Full-Time,45036,"Griffinland, AZ",,,,7,9,7
+E150,Brittany Davis,Inventory Specialist,Operations,12/10/2024,Website,12/23/2024,,2/13/2023,Hired,F,51,No,Yes,Yes,Contract,52890,"Taramouth, SC",,,,2,4,9
+E151,Carl Perry,Marketing Mgr,Marketing,4/8/2020,Indeed,4/19/2020,,1/28/2021,Hired,M,53,No,Yes,Yes,Part-Time,77708,"North Andrew, CT",,,,7,3,8
+E152,John Curry,Financial Analyst,Finance,10/3/2023,LinkedIn,10/8/2023,10/13/2023,8/25/2021,Hired,F,28,No,No,No,Part-Time,86179,"Brittanyshire, MD",,,,6,9,2
+E153,Michael Whitehead,Accountant,Finance,7/26/2022,Indeed,8/5/2022,8/9/2022,8/17/2021,Hired,M,51,Yes,Yes,Yes,Full-Time,118279,"East Melissaborough, NE",,,,3,7,7
+E154,Ryan Juarez,Logistics Coordinator,Operations,1/27/2020,Job Fair,2/6/2020,2/15/2020,6/27/2020,Hired,M,37,Yes,No,Yes,Contract,102259,"Port James, SC",,,,4,7,1
+E155,Sarah Miller,Payroll Specialist,Finance,10/6/2024,Job Fair,10/8/2024,10/12/2024,,Hired,F,61,No,No,Yes,,,"Kevinview, IL",,,,,,
+E156,Lisa Meza,Sales Manager,Sales,10/12/2021,Referral,10/23/2021,,5/24/2023,Hired,M,49,No,No,Yes,Full-Time,57358,"West Joshuastad, AZ",,,,6,9,9
+E157,Christopher Brooks,Account Exec,Sales,7/7/2021,Indeed,7/19/2021,7/20/2021,,Screening,F,47,Yes,No,Yes,,,"Lake Robertshire, VA",,,,,,
+E158,Paul Guerrero,Inventory Specialist,Operations,5/11/2022,Indeed,5/13/2022,,4/17/2024,Hired,M,28,Yes,No,Yes,Contract,109872,"Richardsonfort, MD",,,,6,2,4
+E159,Angie Rhodes,HR Specialist,Human Resources,9/7/2024,Job Fair,,,4/6/2020,Hired,F,55,Yes,Yes,Yes,Full-Time,61203,"Calebfurt, KY",,,,5,5,10
+E160,Ryan Mathis,Sales Manager,Sales,3/10/2021,Indeed,,,,Hired,M,34,No,Yes,Yes,,,"Edwardtown, MT",,,,,,
+E161,Jason Castro DDS,Data Analyst,IT,4/11/2024,Indeed,,,,Hired,F,53,Yes,No,No,,,"West Matthew, LA",,,,,,
+E162,Nicole Brown,Systems Admin,IT,3/19/2021,LinkedIn,3/21/2021,,6/13/2021,Hired,M,43,Yes,Yes,No,Part-Time,42795,"Port Mitchellport, NC",,,,1,6,5
+E163,Morgan Archer,Financial Analyst,Finance,5/30/2021,Referral,6/6/2021,6/7/2021,11/5/2024,Hired,F,50,No,No,Yes,Contract,48040,"Port Chelsea, HI",,,,10,1,7
+E164,Kimberly Serrano,Recruiter,Human Resources,1/31/2020,Website,2/1/2020,2/9/2020,7/3/2020,Hired,F,44,No,No,Yes,Full-Time,93722,"Stevenfurt, NJ",,,,4,7,1
+E165,Michael Lopez,Accountant,Finance,3/24/2020,Referral,3/27/2020,3/30/2020,2/1/2023,Hired,M,60,No,Yes,Yes,Contract,59211,"Bakerchester, ID",,,,1,9,10
+E166,Sara Taylor,HR Specialist,Human Resources,6/20/2021,Indeed,6/29/2021,6/30/2021,1/25/2021,Hired,M,45,Yes,Yes,Yes,Contract,87474,"Pacetown, ID",,,,9,1,4
+E167,Laura Lee,Inventory Specialist,Operations,6/7/2024,Website,6/8/2024,,10/6/2022,Hired,F,47,Yes,No,Yes,Contract,72272,"Lake Johnbury, MA",,,,5,5,10
+E168,Stephen Price,Systems Admin,IT,3/19/2022,Job Fair,4/1/2022,,2/5/2023,Hired,F,59,Yes,Yes,Yes,Contract,61202,"Ayalachester, TX",,,,2,4,10
+E169,Amanda Abbott,Operations Manager,Operations,11/3/2023,Job Fair,11/5/2023,11/12/2023,12/2/2023,Hired,F,42,Yes,No,Yes,Full-Time,63784,"Greenfort, TN",,,,2,7,2
+E170,Teresa Curtis,Recruiter,Human Resources,5/13/2024,Job Fair,5/26/2024,6/2/2024,4/30/2021,Hired,M,59,No,Yes,Yes,Full-Time,101252,"South David, ND",,,,10,5,8
+E171,Charles Goodman,Financial Analyst,Finance,5/6/2022,Indeed,5/7/2022,5/15/2022,9/26/2021,Hired,M,42,Yes,Yes,No,Contract,113511,"Taylorchester, SC",11/17/2022,Relocation,Yes,9,6,1
+E172,Patricia Petty,Account Exec,Sales,7/10/2023,Job Fair,7/25/2023,,1/15/2020,Hired,F,48,Yes,Yes,No,Part-Time,108053,"Jessicaside, GA",,,,9,4,7
+E173,Victoria Pratt,Content Specialist,Marketing,5/20/2024,Website,5/31/2024,6/1/2024,1/28/2020,Hired,F,24,Yes,Yes,No,Contract,42423,"North Aliciaport, FL",,,,6,10,1
+E174,Emily Aguirre,Accountant,Finance,9/15/2021,Referral,9/23/2021,9/29/2021,,Screening,F,48,Yes,No,Yes,,,"Kennethland, NY",,,,,,
+E175,Christopher Strickland,Systems Admin,IT,1/4/2020,Job Fair,1/6/2020,1/16/2020,9/5/2020,Hired,M,49,Yes,Yes,No,Contract,90815,"Morganport, KS",,,,4,3,7
+E176,Colin Jenkins,Operations Manager,Operations,10/16/2024,Referral,10/29/2024,11/5/2024,11/24/2020,Hired,M,49,Yes,No,No,Contract,48967,"Greenburgh, MD",,,,8,2,6
+E177,Nancy Forbes,Marketing Mgr,Marketing,10/5/2022,LinkedIn,10/11/2022,,5/24/2024,Hired,F,33,Yes,Yes,Yes,Full-Time,41423,"Evansburgh, TX",,,,10,4,7
+E178,Ana Cohen,Operations Manager,Operations,6/21/2023,LinkedIn,7/2/2023,7/5/2023,4/17/2024,Hired,F,64,No,No,No,Contract,115113,"Heatherbury, NJ",,,,10,1,4
+E179,Nicholas Jensen,SEO Analyst,Marketing,4/17/2022,Job Fair,4/22/2022,4/23/2022,11/23/2023,Hired,F,54,Yes,Yes,No,Part-Time,79086,"Richardchester, TN",,,,4,4,7
+E180,Brenda Tucker,Inventory Specialist,Operations,11/4/2024,LinkedIn,11/16/2024,11/20/2024,10/6/2022,Hired,M,24,No,No,No,Contract,65900,"New Brentberg, AK",,,,10,3,8
+E181,Kelly Meyer,SEO Analyst,Marketing,4/8/2021,LinkedIn,4/19/2021,4/25/2021,,Rejected,F,28,Yes,No,No,,,"Tonymouth, NE",,,,,,
+E182,John Farmer,IT Support,IT,11/17/2022,Indeed,12/1/2022,12/7/2022,,Hired,M,23,No,No,Yes,,,"Whiteshire, IA",,,,,,
+E183,Kelly Rodriguez,Inventory Specialist,Operations,12/3/2021,Website,,,,Screening,M,65,Yes,Yes,Yes,,,"Josefurt, TN",,,,,,
+E184,Claudia Fischer,Marketing Mgr,Marketing,3/29/2021,Website,4/13/2021,4/17/2021,,Offer Declined,F,30,No,No,Yes,,,"Perryport, WV",,,,,,
+E185,George Garcia,SEO Analyst,Marketing,2/19/2021,Indeed,3/4/2021,,,Rejected,F,49,Yes,No,Yes,,,"West Erinborough, MN",,,,,,
+E186,Kimberly Michael,Operations Manager,Operations,9/16/2024,LinkedIn,9/22/2024,9/30/2024,8/12/2020,Hired,F,45,No,No,No,Contract,49004,"Nancyville, GA",2/10/2023,Better Compensation,No,3,9,1
+E187,Jessica Tucker,Account Exec,Sales,6/26/2020,Indeed,7/11/2020,7/16/2020,6/27/2024,Hired,M,41,No,No,No,Part-Time,86425,"Jeffreyfort, SC",,,,4,2,8
+E188,Courtney King,Software Engineer,IT,5/29/2022,Job Fair,6/1/2022,,1/10/2020,Hired,M,65,Yes,No,Yes,Part-Time,101367,"New Scott, MI",9/8/2023,,Yes,8,1,4
+E189,Anna Clark,Account Exec,Sales,4/30/2022,Job Fair,5/13/2022,5/14/2022,6/2/2021,Hired,F,48,Yes,Yes,No,Part-Time,100233,"Loweburgh, FL",,,,3,6,10
+E190,Joseph Brown,Sales Manager,Sales,7/12/2021,Job Fair,7/22/2021,7/30/2021,4/8/2022,Hired,M,54,No,Yes,No,Part-Time,73596,"Mirandaburgh, AL",7/1/2023,Relocation,No,4,10,9
+E191,Brianna Richmond,Inventory Specialist,Operations,6/5/2024,Website,6/15/2024,6/16/2024,,Hired,M,36,No,Yes,Yes,,,"Moralesborough, ND",,,,,,
+E192,John Ryan,Marketing Mgr,Marketing,11/7/2023,LinkedIn,11/14/2023,11/17/2023,,Screening,M,52,No,No,Yes,,,"Douglaschester, MI",,,,,,
+E193,Patrick Palmer,HR Specialist,Human Resources,12/4/2021,Website,12/19/2021,,7/25/2022,Hired,F,45,Yes,No,No,Part-Time,97167,"Port Anthonyfort, KS",1/13/2025,Misconduct,Yes,10,6,6
+E194,Kathleen Clay,Sales Manager,Sales,10/18/2021,Job Fair,10/24/2021,10/28/2021,10/12/2020,Hired,M,36,No,Yes,No,Part-Time,85262,"East George, AZ",,,,3,5,4
+E195,Mark Stone,Operations Manager,Operations,1/29/2023,Website,2/6/2023,2/14/2023,11/5/2024,Hired,F,48,No,Yes,No,Contract,57411,"Garretthaven, AR",,,,6,7,6
+E196,Monique Tucker,Operations Manager,Operations,2/14/2022,Referral,2/27/2022,3/2/2022,12/5/2020,Hired,F,65,Yes,Yes,Yes,Part-Time,113484,"Joannaville, FL",,,,3,9,2
+E197,Alexander Morris,Sales Associate,Sales,6/4/2021,Indeed,6/19/2021,6/26/2021,8/25/2022,Hired,M,54,No,No,Yes,Part-Time,41173,"Port Kayla, SC",,,,8,6,7
+E198,Mrs. Jennifer Beard,Logistics Coordinator,Operations,8/15/2023,Website,8/27/2023,8/30/2023,12/7/2020,Hired,M,26,Yes,No,Yes,Full-Time,110497,"East Kimberlyhaven, UT",,,,5,8,9
+E199,Randy Bell,Account Exec,Sales,8/4/2020,Referral,,,9/4/2023,Hired,F,22,No,Yes,No,Contract,51452,"Derrickborough, WA",,,,9,9,8
+E200,Terri Bruce,Sales Manager,Sales,2/27/2021,LinkedIn,3/10/2021,3/17/2021,12/17/2020,Hired,M,46,No,No,No,Full-Time,67305,"West Sophiaport, HI",12/28/2022,Career Growth,No,4,3,9
+E201,Crystal Vasquez,Inventory Specialist,Operations,12/10/2022,Indeed,12/25/2022,12/29/2022,10/28/2020,Hired,M,50,Yes,No,No,Full-Time,42078,"Jeremyview, WI",7/14/2022,Misconduct,Yes,10,5,4
+E202,Brandi Giles,Inventory Specialist,Operations,11/4/2023,Referral,,,,Offer Declined,F,60,Yes,No,Yes,,,"Port Jessicabury, AZ",,,,,,
+E203,Jodi Myers,SEO Analyst,Marketing,2/1/2020,Referral,,,4/22/2020,Hired,M,61,No,Yes,Yes,Full-Time,87655,"West Zachary, OR",,,,2,2,2
+E204,Stephen Price,Payroll Specialist,Finance,12/5/2021,LinkedIn,,,12/8/2023,Hired,M,40,No,Yes,Yes,Full-Time,96954,"North Chelsea, AK",,,,8,2,10
+E205,Rebecca Hamilton,Operations Manager,Operations,10/17/2022,Referral,10/18/2022,,7/5/2024,Hired,F,40,No,No,No,Full-Time,89889,"Lake Anna, MS",,,,4,8,8
+E206,Christie Reilly,Accountant,Finance,7/25/2024,Website,,,12/29/2024,Hired,M,32,No,Yes,No,Full-Time,86937,"Amandachester, KS",,,,9,3,3
+E207,Andrea White,Recruiter,Human Resources,3/15/2021,Job Fair,3/29/2021,4/5/2021,,Screening,M,50,No,Yes,No,,,"North Jeromeport, DC",,,,,,
+E208,Molly Robinson,Accountant,Finance,12/1/2023,LinkedIn,12/16/2023,,8/30/2022,Hired,F,56,No,No,Yes,Part-Time,59429,"South Jonathan, AK",,,,6,9,3
+E209,Marc Smith,Sales Manager,Sales,5/27/2024,LinkedIn,5/30/2024,6/8/2024,8/25/2024,Hired,M,39,Yes,Yes,No,Contract,110089,"Ewingstad, TN",,,,2,7,9
+E210,Justin Henderson,HR Specialist,Human Resources,3/4/2022,Referral,,,10/30/2020,Hired,F,35,Yes,Yes,No,Full-Time,113755,"North Melanie, TN",,,,7,9,7
+E211,Marcus Wood,Data Analyst,IT,12/17/2021,Referral,12/24/2021,12/25/2021,11/14/2020,Hired,F,47,Yes,No,No,Part-Time,51870,"Lake Melindastad, WA",,,,8,5,5
+E212,Tara Torres,Sales Manager,Sales,7/30/2023,Job Fair,8/5/2023,8/6/2023,10/17/2020,Hired,M,48,No,No,Yes,Contract,95076,"Port Tracy, IL",,,,9,6,9
+E213,Christian Townsend,Software Engineer,IT,12/6/2024,Indeed,12/19/2024,12/21/2024,,Hired,M,63,Yes,No,Yes,,,"Port Laurenport, NV",,,,,,
+E214,Margaret Williams,Payroll Specialist,Finance,9/12/2023,Website,9/26/2023,9/30/2023,7/29/2020,Hired,M,52,No,No,No,Full-Time,92036,"South Elizabeth, WY",3/12/2021,Relocation,No,6,3,8
+E215,William Harris,Marketing Mgr,Marketing,5/2/2021,LinkedIn,5/9/2021,5/18/2021,7/16/2022,Hired,F,59,Yes,No,No,Contract,107065,"East Nicholas, MA",,,,4,7,9
+E216,Shane Knapp,Account Exec,Sales,5/26/2020,Referral,6/1/2020,6/8/2020,12/17/2020,Hired,M,38,No,No,Yes,Contract,85365,"Longland, CA",,,,4,10,7
+E217,Nicole Tran,HR Specialist,Human Resources,7/26/2020,Indeed,8/6/2020,8/14/2020,6/26/2021,Hired,M,28,No,No,Yes,Full-Time,102336,"Ashleyberg, AR",,,,10,5,9
+E218,Matthew Hughes,Software Engineer,IT,5/14/2023,Referral,5/26/2023,,,Offer Declined,M,52,Yes,No,No,,,"Sethfurt, IA",,,,,,
+E219,Amanda Cohen,HR Manager,Human Resources,4/16/2020,Job Fair,4/17/2020,4/18/2020,3/8/2020,Hired,F,43,Yes,Yes,Yes,Part-Time,48399,"Colonborough, OK",,,,8,3,9
+E220,Michael Martinez,Software Engineer,IT,9/19/2024,Indeed,9/27/2024,9/29/2024,6/20/2023,Hired,M,35,Yes,Yes,No,Full-Time,97350,"Coleview, MN",,,,6,3,5
+E221,Ronnie Sparks,Inventory Specialist,Operations,5/11/2022,Referral,,,7/9/2021,Hired,F,42,Yes,No,Yes,Part-Time,114949,"West Kevinberg, WY",,,,6,3,9
+E222,Sandra Ramos,SEO Analyst,Marketing,10/28/2022,LinkedIn,10/29/2022,11/2/2022,10/7/2024,Hired,M,61,Yes,Yes,Yes,Full-Time,72792,"North Erica, UT",,,,4,3,9
+E223,Mike Allen,HR Specialist,Human Resources,3/30/2024,Job Fair,4/12/2024,,7/19/2021,Hired,F,47,No,Yes,Yes,Full-Time,61805,"Kellychester, IN",,,,5,6,9
+E224,Amber Johnson,HR Manager,Human Resources,6/25/2022,LinkedIn,7/3/2022,,8/16/2023,Hired,M,62,Yes,No,No,Full-Time,52527,"Lake Erin, CT",,,,3,2,4
+E225,Lisa Brady,Data Analyst,IT,1/3/2022,Referral,,,,Rejected,F,34,No,No,Yes,,,"East Alexandria, KY",,,,,,
+E226,Mark Marks,Inventory Specialist,Operations,11/10/2020,Website,11/25/2020,12/4/2020,,Screening,M,38,No,Yes,Yes,,,"Melissabury, WI",,,,,,
+E227,Philip Sawyer,Content Specialist,Marketing,3/10/2024,Job Fair,3/20/2024,3/23/2024,5/20/2020,Hired,F,25,Yes,Yes,No,Full-Time,112910,"Beckyborough, NM",,,,7,4,1
+E228,Melissa Rangel,IT Support,IT,9/7/2023,Job Fair,9/16/2023,,1/13/2020,Hired,F,49,No,Yes,No,Part-Time,44591,"South Joseph, FL",,,,7,1,1
+E229,Alexis Greene,Data Analyst,IT,3/26/2022,Referral,4/9/2022,,10/21/2022,Hired,F,35,Yes,No,No,Full-Time,69131,"Lake Tommouth, CT",,,,2,9,2
+E230,Erica Kramer,Account Exec,Sales,1/5/2023,Indeed,,,,Offer Declined,F,28,No,Yes,No,,,"Wileyborough, MD",,,,,,
+E231,Erin Montgomery,Systems Admin,IT,5/26/2023,LinkedIn,6/6/2023,6/11/2023,,Hired,M,49,Yes,No,Yes,,,"Riverachester, SC",,,,,,
+E232,Derrick Blackburn,Logistics Coordinator,Operations,3/24/2023,Website,4/7/2023,,10/10/2024,Hired,M,52,Yes,Yes,Yes,Part-Time,89348,"Carterton, AL",,,,1,9,2
+E233,Madison Moore,Sales Manager,Sales,5/12/2023,Indeed,5/14/2023,,1/15/2023,Hired,M,59,No,No,No,Part-Time,116161,"South Johnstad, MD",,,,9,1,5
+E234,Micheal Donovan,Account Exec,Sales,4/28/2024,Job Fair,,,,Offer Declined,M,43,Yes,Yes,Yes,,,"West Brianna, ME",,,,,,
+E235,Mark Morgan,SEO Analyst,Marketing,10/2/2024,Referral,,,9/11/2023,Hired,F,32,Yes,Yes,Yes,Full-Time,104545,"Hernandezborough, IL",,,,6,5,5
+E236,Paul Mendoza,Operations Manager,Operations,3/9/2024,Job Fair,,,,Rejected,F,63,Yes,Yes,Yes,,,"Millerhaven, RI",,,,,,
+E237,Amanda Parrish,IT Support,IT,7/7/2020,Website,7/15/2020,,,Rejected,F,42,Yes,No,No,,,"Stevensborough, MS",,,,,,
+E238,Beth Knight,Operations Manager,Operations,4/15/2024,Job Fair,4/30/2024,5/9/2024,,Hired,F,48,Yes,Yes,No,,,"West Marytown, MO",,,,,,
+E239,Brenda Freeman,Sales Manager,Sales,4/11/2021,Indeed,4/12/2021,,11/8/2023,Hired,M,22,No,Yes,No,Contract,50495,"West Selena, NM",,,,9,8,1
+E240,John Rodriguez,Logistics Coordinator,Operations,9/28/2022,Indeed,,,,Hired,M,38,No,No,No,,,"Allenview, NC",,,,,,
+E241,Michael Miller,Sales Manager,Sales,6/6/2024,LinkedIn,6/15/2024,6/17/2024,4/8/2024,Hired,M,23,Yes,No,Yes,Part-Time,81179,"Port Dawnton, OK",,,,7,2,3
+E242,Hannah Smith,Recruiter,Human Resources,8/15/2023,Website,8/16/2023,,11/6/2021,Hired,M,26,Yes,No,Yes,Contract,81406,"Port Sarah, MA",,,,3,1,1
+E243,Robert Molina,Sales Associate,Sales,4/29/2021,Website,5/4/2021,,,Rejected,F,38,Yes,No,No,,,"Lake Kelsey, MN",,,,,,
+E244,Ana Taylor,IT Support,IT,7/24/2022,Job Fair,8/5/2022,8/8/2022,12/13/2024,Hired,M,58,Yes,No,No,Contract,74643,"Bridgetstad, VT",,,,4,3,4
+E245,Steven Cantrell,Software Engineer,IT,9/20/2024,Indeed,9/30/2024,10/1/2024,,Rejected,M,24,No,Yes,No,,,"East Nicholasfurt, MO",,,,,,
+E246,Amy Benjamin,Systems Admin,IT,6/6/2020,Job Fair,6/9/2020,,,Offer Declined,F,23,No,Yes,No,,,"West Holly, NJ",,,,,,
+E247,Daniel Reid,Content Specialist,Marketing,7/8/2021,Job Fair,7/14/2021,,3/9/2023,Hired,F,40,Yes,No,Yes,Part-Time,110771,"South Keithchester, NY",5/8/2024,Misconduct,Yes,8,4,6
+E248,Kathleen Lee,Account Exec,Sales,4/11/2020,Website,4/12/2020,4/17/2020,,Screening,M,45,Yes,Yes,Yes,,,"Cynthiaton, IL",,,,,,
+E249,Tracy Harvey,Inventory Specialist,Operations,2/3/2022,Website,2/14/2022,2/16/2022,12/14/2021,Hired,F,32,No,No,Yes,Contract,84188,"Port Kiarachester, KY",,,,5,9,7
+E250,Darius Raymond,Recruiter,Human Resources,8/31/2022,Job Fair,9/15/2022,,6/6/2022,Hired,M,48,Yes,No,Yes,Part-Time,81655,"Katherineside, TN",,,,1,4,6
+E251,Samuel Ochoa,Content Specialist,Marketing,12/9/2022,Indeed,12/10/2022,12/16/2022,10/1/2022,Hired,F,61,No,No,Yes,Part-Time,114918,"Hillport, KY",,,,5,5,7
+E252,Kristin Norton,Software Engineer,IT,12/18/2022,Website,12/30/2022,1/8/2023,11/4/2021,Hired,M,28,Yes,No,No,Full-Time,79068,"Louisland, AZ",,,,6,1,6
+E253,Jennifer Clark,Logistics Coordinator,Operations,12/8/2022,Job Fair,12/16/2022,12/21/2022,4/14/2020,Hired,M,50,Yes,No,Yes,Part-Time,119177,"Port Dominiquebury, PA",,,,6,1,8
+E254,Tara Solomon,Marketing Mgr,Marketing,11/9/2024,Job Fair,11/14/2024,,3/4/2024,Hired,M,59,No,No,No,Contract,40064,"Hessmouth, MO",,,,9,6,5
+E255,Nichole Smith,Inventory Specialist,Operations,5/10/2021,LinkedIn,5/24/2021,,,Hired,F,47,No,Yes,No,,,"Elizabethchester, KY",,,,,,
+E256,Melissa Barron MD,Content Specialist,Marketing,3/31/2022,Job Fair,4/14/2022,,9/30/2023,Hired,M,65,Yes,Yes,No,Part-Time,40016,"Linfurt, MT",,,,1,1,3
+E257,Rebecca Rivera,Sales Associate,Sales,7/22/2022,LinkedIn,7/28/2022,7/30/2022,12/18/2023,Hired,F,39,Yes,No,Yes,Full-Time,61791,"West Rhondaton, NV",,,,7,7,9
+E258,Susan Hoffman,Inventory Specialist,Operations,4/10/2021,Website,,,12/24/2021,Hired,F,32,No,Yes,No,Part-Time,88700,"North Troy, NM",,,,5,5,4
+E259,Daniel Cook,Data Analyst,IT,1/12/2024,Job Fair,,,1/22/2023,Hired,F,43,Yes,No,No,Part-Time,79221,"Port Misty, FL",,,,5,8,10
+E260,Joseph Franklin,Financial Analyst,Finance,12/27/2022,Job Fair,1/2/2023,1/4/2023,10/3/2020,Hired,F,62,No,Yes,Yes,Contract,69808,"West David, CO",3/21/2024,Career Growth,Yes,3,5,10
+E261,Molly Smith,Sales Associate,Sales,1/7/2021,Website,,,,Hired,F,53,Yes,No,Yes,,,"Port Scottfurt, VA",,,,,,
+E262,Stephen Reilly,SEO Analyst,Marketing,9/12/2023,Website,9/16/2023,9/17/2023,5/16/2023,Hired,M,65,No,No,No,Contract,48158,"Brownfurt, NE",,,,8,4,3
+E263,Terry Hicks,Accountant,Finance,7/14/2023,LinkedIn,,,8/11/2023,Hired,F,28,No,No,No,Contract,46452,"Lake Thomas, OR",,,,4,7,4
+E264,Anthony Fowler,Inventory Specialist,Operations,8/23/2022,LinkedIn,,,4/15/2020,Hired,F,45,Yes,No,No,Part-Time,40715,"Rebeccatown, CO",,,,1,3,8
+E265,Robin Harris,HR Specialist,Human Resources,12/28/2024,Referral,1/3/2025,1/11/2025,,Hired,F,57,No,Yes,Yes,,,"North Cindy, KY",,,,,,
+E266,Willie Mccoy,Content Specialist,Marketing,5/18/2022,Indeed,5/25/2022,5/28/2022,7/25/2024,Hired,F,57,Yes,No,No,Full-Time,56393,"Hoffmanborough, TN",,,,5,5,6
+E267,Virginia Parrish,IT Support,IT,4/5/2024,Referral,4/12/2024,4/16/2024,11/24/2021,Hired,F,63,Yes,No,Yes,Full-Time,113006,"Smithstad, WY",,,,4,9,8
+E268,Alec Raymond,Financial Analyst,Finance,9/13/2020,LinkedIn,9/21/2020,9/22/2020,9/8/2022,Hired,F,31,Yes,Yes,No,Part-Time,59575,"Moralesbury, OR",,,,4,7,9
+E269,Christian Miller,Accountant,Finance,11/22/2022,Indeed,11/30/2022,12/2/2022,,Hired,M,58,Yes,No,Yes,,,"Sandersshire, KY",,,,,,
+E270,Kenneth Lopez,Marketing Mgr,Marketing,7/27/2020,LinkedIn,7/29/2020,7/30/2020,10/2/2021,Hired,F,36,Yes,No,Yes,Contract,101728,"Christianville, MD",5/22/2024,Career Growth,Yes,7,5,3
+E271,Michelle Reed,Marketing Mgr,Marketing,6/14/2022,LinkedIn,6/29/2022,7/5/2022,7/19/2021,Hired,F,37,Yes,Yes,Yes,Full-Time,92537,"Wilkinsville, MO",,,,3,7,10
+E272,Tiffany Woods,SEO Analyst,Marketing,6/20/2023,Indeed,,,12/15/2024,Hired,F,36,Yes,No,Yes,Full-Time,40492,"North Jenniferfort, ND",,,,1,3,3
+E273,Eric Nguyen,Logistics Coordinator,Operations,5/17/2024,Indeed,5/26/2024,5/28/2024,3/18/2023,Hired,F,31,No,No,Yes,Contract,112736,"West Feliciaville, KY",,,,7,3,1
+E274,Kayla Ray,Account Exec,Sales,2/19/2023,Referral,,,9/28/2021,Hired,F,47,No,No,Yes,Part-Time,105491,"South Robert, MA",,,,10,5,1
+E275,Desiree Dorsey,Financial Analyst,Finance,11/27/2022,Website,,,12/4/2024,Hired,M,37,Yes,No,Yes,Contract,94497,"South Laurenview, VA",,,,10,10,4
+E276,Jacob Benjamin,Account Exec,Sales,5/7/2021,Indeed,5/12/2021,,5/28/2022,Hired,F,62,Yes,No,Yes,Full-Time,105836,"East Lauren, DC",,,,7,7,1
+E277,Christopher Hubbard,IT Support,IT,1/8/2024,Website,1/11/2024,1/15/2024,6/28/2023,Hired,F,50,Yes,No,No,Full-Time,66920,"Charlesfurt, OK",8/8/2025,Better Compensation,No,9,10,2
+E278,Michael Watkins,Content Specialist,Marketing,1/1/2021,Job Fair,1/2/2021,1/6/2021,1/18/2020,Hired,M,32,Yes,Yes,Yes,Full-Time,44723,"Port Valeriebury, MN",,,,6,6,6
+E279,Brooke Salas,Marketing Mgr,Marketing,2/14/2023,Indeed,2/22/2023,,6/30/2020,Hired,M,25,No,Yes,Yes,Contract,54565,"New Aprilhaven, MD",,,,2,2,6
+E280,Adam Morales,Marketing Mgr,Marketing,7/2/2022,Referral,7/13/2022,,5/4/2023,Hired,M,50,No,No,No,Full-Time,71066,"Yatesborough, WY",,,,9,9,6
+E281,Nathan Wright,Marketing Mgr,Marketing,11/26/2024,Referral,12/7/2024,12/10/2024,8/6/2023,Hired,M,53,No,No,No,Contract,50919,"Port Kyle, MO",,,,1,5,5
+E282,Joseph Lewis,Operations Manager,Operations,8/13/2023,Indeed,8/14/2023,8/17/2023,12/25/2024,Hired,M,33,No,No,No,Part-Time,41810,"North Jasonport, VT",,,,9,6,2
+E283,Harold Moody,Payroll Specialist,Finance,3/13/2021,Indeed,3/24/2021,4/2/2021,11/20/2021,Hired,F,44,No,No,No,Part-Time,45757,"Port Kimberlyfort, MT",,,,2,1,4
+E284,Molly White,Data Analyst,IT,4/29/2024,Job Fair,5/1/2024,5/7/2024,,Rejected,M,25,Yes,No,Yes,,,"Port David, MI",,,,,,
+E285,Erika Chen,Account Exec,Sales,8/17/2022,Job Fair,,,12/9/2022,Hired,M,29,Yes,No,Yes,Full-Time,93653,"North Amber, NC",,,,3,8,4
+E286,Donna Wolfe,Inventory Specialist,Operations,2/25/2023,Indeed,3/3/2023,,8/7/2023,Hired,M,26,Yes,Yes,Yes,Full-Time,104251,"New Gail, TN",,,,1,5,3
+E287,Holly Murphy,Account Exec,Sales,7/23/2023,Website,7/31/2023,8/4/2023,,Rejected,M,24,Yes,No,No,,,"Port Melissa, DC",,,,,,
+E288,Mercedes Peterson,Sales Associate,Sales,6/26/2023,Indeed,6/27/2023,7/5/2023,,Hired,F,47,Yes,No,Yes,,,"Austinside, NY",,,,,,
+E289,Robert Wallace,Account Exec,Sales,10/2/2020,Job Fair,,,10/7/2023,Hired,F,30,Yes,No,No,Contract,74275,"Carrollbury, WI",,,,7,1,8
+E290,William Martinez,Inventory Specialist,Operations,8/4/2020,Website,8/8/2020,8/11/2020,11/14/2024,Hired,M,61,Yes,No,No,Part-Time,101487,"South Kristentown, WY",,,,4,7,6
+E291,Thomas Jacobson,Operations Manager,Operations,10/10/2023,Indeed,,,1/11/2023,Hired,F,35,No,No,No,Contract,98921,"Karenmouth, ND",,,,10,7,4
+E292,Dustin Horton,Sales Manager,Sales,6/11/2020,Referral,,,11/20/2022,Hired,F,25,Yes,Yes,Yes,Contract,43579,"Orozcochester, OR",,,,4,2,8
+E293,Mrs. Jessica Tate PhD,IT Support,IT,8/18/2022,Website,8/19/2022,,,Rejected,M,38,Yes,Yes,Yes,,,"Lake Adam, LA",,,,,,
+E294,Christina Martinez,HR Manager,Human Resources,6/14/2022,LinkedIn,6/19/2022,6/27/2022,5/19/2022,Hired,M,47,Yes,Yes,No,Full-Time,117225,"Sergioburgh, NM",,,,3,2,1
+E295,Joyce Gallegos,Recruiter,Human Resources,8/4/2021,Job Fair,8/12/2021,8/22/2021,1/7/2023,Hired,F,45,Yes,No,Yes,Part-Time,79850,"Torresberg, NJ",,,,3,3,9
+E296,Erin Gibson,Account Exec,Sales,11/1/2022,Website,11/16/2022,11/24/2022,1/5/2023,Hired,M,36,Yes,No,No,Part-Time,62966,"Michaelchester, NC",,,,2,6,6
+E297,Shannon Robinson,Logistics Coordinator,Operations,5/7/2022,LinkedIn,5/21/2022,5/25/2022,10/7/2024,Hired,F,39,No,Yes,Yes,Part-Time,85648,"Lake Andrewbury, IA",,,,10,7,8
+E298,Tyler Carey,Software Engineer,IT,7/20/2021,Website,7/27/2021,8/5/2021,9/22/2020,Hired,M,22,No,No,No,Full-Time,61677,"Leetown, VT",,,,7,5,1
+E299,Chelsey Gomez,Payroll Specialist,Finance,3/23/2022,Referral,3/24/2022,,5/31/2023,Hired,F,55,Yes,Yes,No,Full-Time,43080,"Dianemouth, CA",,,,10,9,2
