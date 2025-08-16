@@ -27,7 +27,7 @@ To demonstrate how HR data can be transformed into actionable insights through i
 (Insert screenshots of your Power BI dashboard here — e.g., Recruitment Funnel, Salary Benchmark, Turnover KPIs.)
 
 
-## 📊 Sample Visuals
+## 📊 Sample Visual
 ![Dashboard Overview](hr_dashboard.png)
 
 ## 📊 Sample Video Demonstration
