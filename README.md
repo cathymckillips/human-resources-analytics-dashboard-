@@ -2,16 +2,16 @@
 ## 📌 Project Overview
 This project showcases an interactive Human Resources Analytics Dashboard built in Power BI. The dashboard consolidates key workforce insights into one view, empowering HR teams and executives to make data-driven decisions around recruitment, compensation, and retention.
 ## 🔎 Key Features
-•	Recruitment Stages – visualize the hiring pipeline from application through hire
-•	Salary Insights – sum of salary by department and average salary benchmarking
-•	Turnover Analysis – overall turnover rate, voluntary vs. involuntary exits, and % eligible for rehire
-•	Workforce Metrics – total hires, department-level salary insights, and employee retention indicators
+-	**Recruitment Stages** - visualize the hiring pipeline from application through hire
+-	**Salary Insights** – sum of salary by department and average salary benchmarking
+-	**Turnover Analysis** – overall turnover rate, voluntary vs. involuntary exits, and % eligible for rehire
+-	**Workforce Metrics** – total hires, department-level salary insights, and employee retention indicators
 ## 🛠️ Tools & Techniques
-•	Power BI for data modeling and visualization
-•	Power Query for data cleaning and transformation
-•	DAX for calculated measures (turnover %, average days to hire, rehire eligibility %)
-•	Excel for initial data exploration
-•	GitHub for portfolio documentation and sharing
+-	Power BI for data modeling and visualization
+-	Power Query for data cleaning and transformation
+-	DAX for calculated measures (turnover %, average days to hire, rehire eligibility %)
+-	Excel for initial data exploration
+-	GitHub for portfolio documentation and sharing
 ## 🎯 Purpose
 To demonstrate how HR data can be transformed into actionable insights through interactive dashboards, highlighting the value of analytics in improving hiring efficiency, understanding workforce trends, and supporting people-focused decision-making.
 
