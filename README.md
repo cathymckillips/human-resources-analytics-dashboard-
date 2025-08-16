@@ -35,6 +35,8 @@ To demonstrate how HR data can be transformed into actionable insights through i
   <img src="hr_dashboard_thumbnail.png" alt="Watch the Dashboard Demo" width="400"/>
 </a>
 
+*Tip: Right-click and choose “Open link in new tab” to keep browsing this repo while watching the video.*
+
 ## 🗂️ Project Status
 
 ✅ Complete – Ready for demonstration and portfolio inclusion  
