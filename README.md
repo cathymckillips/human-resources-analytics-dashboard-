@@ -31,7 +31,9 @@ To demonstrate how HR data can be transformed into actionable insights through i
 ![Dashboard Overview](hr_dashboard.png)
 
 ## 📊 Sample Video Demonstration
-▶️ [Watch on YouTube]( https://youtu.be/n1uk0k0MqZQ)
+<a href="https://youtu.be/n1uk0k0MqZQ" target="_blank">
+  <img src="hr_dashboard_thumbnail.png" alt="Watch the Dashboard Demo" width="400"/>
+</a>
 
 ## 🗂️ Project Status
 
